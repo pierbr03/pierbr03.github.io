@@ -3,13 +3,10 @@ Personal Portfolio
 
 HTML and CSS Projsects
 
-This is a display of sample websites that I made using HTML and CSS
+This is a display of sample website that I made using HTML and CSS
 
 
 
 Projects:
-
-Movie Theater Site
-Pierce Performace Site
 Portfolio Site
 
